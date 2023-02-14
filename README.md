@@ -1,2 +1,3 @@
 # Mail
-Postfixadmin
+Postfixadmin  
+[Installation Mail](../../wiki/Reau)

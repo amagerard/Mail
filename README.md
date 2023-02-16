@@ -1,3 +1,1 @@
-# Mail
-Postfixadmin  
-[Installation Mail](../../wiki/Reseau)
+Please checkout the wiki. https://github.com/amagerard/TemplateVM/wiki
